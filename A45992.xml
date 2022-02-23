@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act to prevent Protestants inter-marrying with papists</title>
+            <author>Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45992</idno>
+            <idno type="STC">Wing I326</idno>
+            <idno type="STC">ESTC R475473</idno>
+            <idno type="EEBO-CITATION">18367696</idno>
+            <idno type="OCLC">ocm 18367696</idno>
+            <idno type="VID">107365</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45992)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107365)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1636:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act to prevent Protestants inter-marrying with papists</title>
+                  <author>Ireland.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>MDCXCVII [1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Interfaith marriage --  Ireland --  Controversial literature.</term>
+               <term>Anti-Catholicism --  Ireland.</term>
+               <term>Ireland --  History --  1691-</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107365:1"/>
+            <p>AN ACT To Prevent PROTESTANTS <hi>Inter-Marrying</hi> WITH PAPISTS.</p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN:</hi> Printed by <hi>Andrew Crook,</hi> Printer to the King's Moſt Excellent Majeſty, on <hi>Cork-Hill,</hi> near <hi>Copper-Alley.</hi> MDCXCVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:107365:2"/>
+            <pb n="3" facs="tcp:107365:2"/>
+            <head>An ACT to Prevent Proteſtants Inter-Marrying with Papiſts.</head>
+            <head type="sub">CAAP. XXVIII.</head>
+            <p>WHEREAS many Proteſtant Mai<g ref="char:EOLhyphen"/>dens and Women, as well ſuch as be Heirs Apparent to their Ance<g ref="char:EOLhyphen"/>ſtors, as others, having left unto them by their Father, or other Anceſtor or Friends, Manours, Lands, Tenements, and Hereditaments, or o<g ref="char:EOLhyphen"/>ther great Subſtances in Goods or Chattels, Real or Perſonal, for their Advancement in Marriage; or having had conſiderable Eſtates for Life, by Dower or Iointure, or having had the Tuition or Guardianſhip of Proteſtant Chil<g ref="char:EOLhyphen"/>dren Intituled to ſuch Eſtates, or Intereſts, as aforeſaid, by Flattery and other Crafty Inſi<g ref="char:EOLhyphen"/>nuations of Popiſh Perſons, have beén Seduced and Prevailed upon, to Contract Matrimony with, and take to Husband, Papiſts or Popiſh Perſons; which Marriages have not only Ten<g ref="char:EOLhyphen"/>ded to the Ruine and Deſtruction of ſuch Eſtates and Intereſts, and to the great Loſs and Da<g ref="char:EOLhyphen"/>mage of many Proteſtants Perſons, to whom the ſame might Deſcend or Come, but as well to the Currupting and Perverting ſuch Proteſtants ſo Marrying, and the Proteſtant Perſons in their Tuition and Guardianſhip, as aforeſaid, that
+<pb n="4" facs="tcp:107365:3"/>
+they forſake their Religion, and become Papiſts, to the great Diſhonour of Almighty God, the great Prejudice of the Proteſtant Intereſt, and the heavy Sorrow and Diſpleaſure of all their Proteſtant Friends. For remedy whereof,</p>
+            <p>Be it Enacted by the King's Moſt Excellent Majeſty, by, and with the Advice and Conſent of the Lords Spiritual and Temporal, and the Commons in this preſent Parliament Aſſem<g ref="char:EOLhyphen"/>bled, and by the Authority of the ſame; That if any Proteſtant Maid, or Woman Vnmarry<g ref="char:EOLhyphen"/>ed being Heir Apparent to her Anceſtor, or having a Sole or Ioynt Eſtate, or Intereſt in Feé-Simple, or in Feé-Tail, or being Seized in Feé-Simple, or in Coparcenary, or in Common, or be<g ref="char:EOLhyphen"/>ing Seized of an Eſtate for Life or Lives, by way of Iointure, Dower, or otherwiſe; or be<g ref="char:EOLhyphen"/>ing Poſſeſſed of, or Intituled unto any Benefi<g ref="char:EOLhyphen"/>cial Intereſt, or Term for Years, of, or in any Manours, Lands, Tenements, Rents and He<g ref="char:EOLhyphen"/>reditaments, in Poſſeſſion, Revertion, or Re<g ref="char:EOLhyphen"/>mainder, or being Poſſeſſed of, or Intituled to any Perſonal Eſtate, either in Money, Stock, Plate, Iewels, or other Goods and Chattels in Law or Equity, to the Value of Five hundred Pounds <hi>Sterling,</hi> or more, ſhall at any time af<g ref="char:EOLhyphen"/>ter the Firſt Day of <hi>January</hi> next, Marry, or take to Husband any Perſon whatſoever, with<g ref="char:EOLhyphen"/>out having firſt obtained a Certificate in Wri<g ref="char:EOLhyphen"/>ting under the Hand of the Miniſter of the Pariſh, Biſhop of the Dioceſs, and ſome Iu<g ref="char:EOLhyphen"/>ſtice of the Peace Living near the Place, or any two of them, where ſuch Perſon ſhall be Reſident at the time of ſuch Marriage, that he is a known Proteſtant; which Certificate ſhall alſo be Atteſted under the Hands of Two or more
+<pb n="5" facs="tcp:107365:3"/>
+Credible Witneſſes, and ſhall be Granted with<g ref="char:EOLhyphen"/>out Feé or Reward, that then and from the time of ſuch Marriage, ſuch Proteſtant perſon ſo Marrying, and the perſon ſhe ſhall ſo Mar<g ref="char:EOLhyphen"/>ry, ſhall be for ever afterwards Diſabled and Rendred Incapable of Having, Holding, or En<g ref="char:EOLhyphen"/>joying, all, or any of the aforeſaid Eſtates or Intereſts, which ſuch Proteſtant Perſon ſo Marrying, ſhall, may, or ought to have, at the time of ſuch Marriage; and that by ſuch Mar<g ref="char:EOLhyphen"/>riage, as aforeſaid, all, and every of the ſaid Eſtates and Intereſts belonging to ſuch Pro<g ref="char:EOLhyphen"/>teſtant perſon or perſons ſo Marrying, as afore<g ref="char:EOLhyphen"/>ſaid, ſhall go to, and be Veſted in, and in Law Deémed and Eſteémed to be the Right, Title, Eſtate and Intereſt of the next Proteſtant of the Kin, to whom ſuch Eſtate, or Intereſt would Deſcend, or come to by Law, were ſuch Proteſtant Maid or Woman, and all other In<g ref="char:EOLhyphen"/>tervening Popiſh Heirs, Executors, or Admini<g ref="char:EOLhyphen"/>ſtrators really Dead and Inteſtate at the time of ſuch Marriage; and that from the time of ſuch Marriage, ſuch next Proteſtant of the Kin, as aforeſaid, to whom all, or any of the ſaid Eſtates or Intereſts, ſhall come by ſuch Marriage, as aforeſaid, ſhall Have, Hold, Poſ<g ref="char:EOLhyphen"/>ſeſs and Enjoy, all, and every ſuch Eſtates and Intereſts, in as Large, Ample, and Beneficial Manner, to all intents and purpoſes, as ſuch Proteſtant Maid or Woman might Have, Held, Poſſeſſed, or Enjoyed the ſame, in Caſe this Act had never beén made; and that at any time after ſuch Proteſtant Maid or Woman, ſhall Marry without ſuch Certificate, as aforeſaid, it ſhall, and may be Lawful, to, and for ſuch Proteſtant perſon or perſons, to whom all, or
+<pb n="6" facs="tcp:107365:4"/>
+any of the ſaid Eſtates or Intereſts, ſhall come by ſuch Marriage, as aforeſaid, by any Action at Law, or other Legal means whatſoever, to Sue for, and Recover all, or any of the ſaid Eſtates or Intereſts, as if ſuch Proteſtant per<g ref="char:EOLhyphen"/>ſon or perſons ſo Marrying, as aforeſaid, and all other Intervening Popiſh Heirs, Executors, or Adminiſtrators, were really Dead, and In<g ref="char:EOLhyphen"/>teſtate, as aforeſaid, and as if ſuch perſon or perſons, who ſhall ſo Sue for, and Recover all, or any of ſuch Eſtates or Intereſts, were Right<g ref="char:EOLhyphen"/>fully and Legally Intituled thereto, as Heir, Executor, or Adminiſtrator to ſuch Proteſtant Maid or Woman Marrying, as aforeſaid; ſuch Maid or Woman, being by ſuch Marriage to be Deémed and Eſteémed Dead in Law, to the aforeſaid Intents, Conſtructions and Pur<g ref="char:EOLhyphen"/>poſes.</p>
+            <p>And if any ſuch Proteſtant Maid or Woman, as aforeſaid, ſhall at any time after the Firſt Day of <hi>January</hi> One thouſand Six hundred Ninety ſeaven, Marry any ſuch perſon with<g ref="char:EOLhyphen"/>out ſuch Certificate, as aforeſaid, that then, and from thenceforth, ſuch Proteſtant perſons, and ſuch Husband as ſhe ſhall ſo Marry, as afore<g ref="char:EOLhyphen"/>ſaid, ſhall for ever be Incapable of being Heir, Executor, Adminiſtrator, or Guardian, of, or to any Proteſtant or Proteſtants whatſoever; and in caſe any Proteſtant Woman, as aforeſaid, is now Married to a Popiſh perſon, and hath now by Law a Title, or is choſen or appointed to be Guardian to any Proteſtant perſon or per<g ref="char:EOLhyphen"/>ſons, having all or any of the ſaid Eſtates or Intereſts, aforeſaid, that in ſuch Caſe, from and after the ſaid Firſt Day of <hi>Ja<g ref="char:EOLhyphen"/>nuary,</hi> ſuch Guardian ſhall be utterly Vnca<g ref="char:EOLhyphen"/>pable
+<pb n="7" facs="tcp:107365:4"/>
+of being any longer ſo Guardian, or to Receive any the Rents, Iſſues or Profits, of the ſaid Eſtates or Intereſts of ſuch perſon or per<g ref="char:EOLhyphen"/>ſons in Guardianſhip, as aforeſaid; and the Right and Title of ſuch Guardianſhip, ſhall de<g ref="char:EOLhyphen"/>volve on, and come to the next Proteſtant, or Proteſtants of the Kin, to whom the Eſtate of ſuch perſon or perſons in Guardianſhip, as afore<g ref="char:EOLhyphen"/>ſaid cannot deſcend, unleſs ſuch perſon ſhall be Vncapable in Law, or ſhall be Adjudged unfit for ſuch Guardianſhip by the Court of Chancery in this Kingdom: In either of which Caſes, ſuch Right of Guardianſhip ſhall go to the next Proteſtant of Kin, who ſhall be Capable and Fit for the Diſcharge of ſuch Truſt, who ſhall take into his, her, or their Care and Tui<g ref="char:EOLhyphen"/>tion ſuch perſon and perſons in Guardianſhip, as aforeſaid, and Receive the Rents, Iſſues and Profits of ſuch Eſtates and Intereſts belong<g ref="char:EOLhyphen"/>ing to ſuch perſon or perſons, ſo in Guardian<g ref="char:EOLhyphen"/>ſhip.</p>
+            <p>And that in Caſe any Proteſtant Miniſter, or Popiſh Prieſt, or other perſon whatſoever, ſhall after the ſaid Firſt Day of <hi>January,</hi> Ioyn in Marriage any Proteſtant Maid or Woman, having any of the ſaid Eſtates or Intereſts, aforeſaid, to any perſon whatſoever, without having ſuch Certificate in Writing, as afore<g ref="char:EOLhyphen"/>ſaid, then every ſuch Proteſtant Miniſter, Popiſh Prieſt, or other perſon whatſoever, Ioyning in Marriage, as aforeſaid, ſuch Proteſtant Maid or Woman to any perſon without ſuch Certificate, as aforeſaid, for every ſuch Offence, he or they ſhall ſo Commit, being Convicted thereof by his or their Confeſſion, or by the Verdict of a Iury of Twelve Men of the County wherein ſuch
+<pb n="8" facs="tcp:107365:5"/>
+Offence ſhall be Committed, ſhall ſuffer One Year's Impriſonment, without Bail or Main<g ref="char:EOLhyphen"/>prize, and Forfeit the Summ of Twenty pounds <hi>Sterling,</hi> the one Moyety thereof to Our Sove<g ref="char:EOLhyphen"/>reign Lord the King, that now is, His Heirs and Succeſſors, and the other Moyety to the par<g ref="char:EOLhyphen"/>ty or parties that will Sue for the ſame, by any Bill, Plaint, Action, Sute or Information, wherein no Eſſoyn, Wager of Law, or Protecti<g ref="char:EOLhyphen"/>on ſhall be allowed.</p>
+            <p>And whereas the Marriages of Proteſtant perſons, to, and with Popiſh Maidens and Wo<g ref="char:EOLhyphen"/>men, have, proved Pernitious to the Proteſtant Intereſt, it commonly happening ſuch Pro<g ref="char:EOLhyphen"/>teſtant perſons and their Iſſues, being influen<g ref="char:EOLhyphen"/>ced by ſuch Popiſh Wives, are Reconciled to Po<g ref="char:EOLhyphen"/>pery, and become Papiſts: For Remedy whereof, Be it further Enacted by the Authority aforeſaid, That in Caſe any Proteſtant perſon or perſons, ſhall after the ſaid Firſt day of <hi>January</hi> next, Mar<g ref="char:EOLhyphen"/>ry any Maiden or Woman, without having ob<g ref="char:EOLhyphen"/>tained a Certificate in writing, under the Hand of the Miniſter of the Pariſh, Biſhop of the Dio<g ref="char:EOLhyphen"/>ceſs, and ſome Iuſtice of the Peace, living near the place where ſuch Maid or Woman ſhall be Reſident at the time of ſuch Marriage, or any Two of them, of her being a known Proteſtant; which Certificate ſhall be Atteſted by Two Credible Witneſſes, as aforeſaid, and ſhall be Granted without Feé or Reward; ſuch perſon or perſons ſo Marrying any Maiden or Wo<g ref="char:EOLhyphen"/>man, ſhall from and after ſuch Marriage, be in Law, deémed and eſteémed to all intents, conſtructions and purpoſes, to be a Papiſt, or Popiſh Recuſant, and ſhall for ever afterwards, be Diſabled and Rendered Incapable of, and
+<pb n="9" facs="tcp:107365:5"/>
+from being Heir, Executor, Adminiſtrator, or Guardian to any perſon or perſons whatſo<g ref="char:EOLhyphen"/>ever, as alſo be Diſabled to Sit in either Houſe of Parliament, and Rendered Incapable of, and from having, bearing, or Exerciſing, any Ci<g ref="char:EOLhyphen"/>vil or Military Office or Imployment whatſo<g ref="char:EOLhyphen"/>ever, unleſs ſuch perſon ſo Marrying, ſhall within One Year after ſuch Marriage, procure ſuch Wife to be Converted to the Proteſtant Religion, and ſhall obtain a Certificate under the Hand and Seal of the Biſhop of the Dio<g ref="char:EOLhyphen"/>ces, or Arch-Biſhop of the Province, or Chan<g ref="char:EOLhyphen"/>cellor, of this Kingdom, that ſhe hath renounced the Popiſh Religion, and is become a Proteſtant, and ſhall procure the ſaid Certificate to be In<g ref="char:EOLhyphen"/>rolled in the Court of Chancery in this King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>And whereas ſeveral Popiſh Prieſts have of late endeavoured to withdraw ſeveral of the Soldiers Inliſted in His Majeſty's Army, from His Majeſty's Service, by Marrying them to Popiſh Wives.</p>
+            <p>Be it therefore further Enacted, That any Popiſh Prieſt, or Proteſtant Miniſter, or o<g ref="char:EOLhyphen"/>ther perſon whatſoever, that ſhall Marry any Soldier Inliſted in His Majeſty's Army in this Kingdom, to any Wife without ſuch Cer<g ref="char:EOLhyphen"/>tificate as aforeſaid, ſhall Forfeit the Summ of Twenty pounds for every ſuch offence, to be Levyed by Warrant from any Iuſtice of the Peace, in any County in this Kingdom where ſuch offence ſhall be Committed of the Goods and Chattels of the Offender, or in default thereof, the party ſo Offending to be Commited to the County Goal there to remain without Bail of Mainprize, until he ſhall pay the ſaid Summ,
+<pb n="10" facs="tcp:107365:6"/>
+one Moyety thereof to ſuch perſon or perſons that ſhall give Information and make out ſuch Offence before any Iuſtice of the Peace, and the other Moyety to the Treſurer of the County, to be applyed to the uſe of the County, and that every Iuſtice of the Peace ſhall give an ac<g ref="char:EOLhyphen"/>count of his proceédings to the next Quarter-Seſſions.</p>
+            <p>Provided always, That any perſon that ſhall think himſelf Agrieved, by the Iudgment of any Iuſtice of the Peace, may have Liberty to Appeal to the next Quarter-Seſſions, where the ſaid Matter ſhall be Examined, and ſuch Relief therein given, as to the Iuſtices at the Quarter-Seſſions ſhall ſeém reaſonable.</p>
+            <p>Provided always, And be it Enacted, That in all Caſes where a Certificate is required by this Act, that the perſon Marrying is a known Proteſtant, if any Marriage ſhall be Made without ſuch Certificate, and it can afterwards be made appear by Proof, that ſuch perſon was a known Proteſtant, that in ſuch Caſe, they ſhall not be Lyable to any For<g ref="char:EOLhyphen"/>feitures or Penalties in this Act.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>An ACT for Granting an Additional Duty on Tobacco; and for continuing unto His Majeſty an Aid, or Additonal Cuſtom on ſeveral Goods and Merchandizes. And alſo, for continuing the Ad<g ref="char:EOLhyphen"/>ditional Duty on Beer and Ale, and other Liquors, till the Twenty fifth Day of <hi>December,</hi> One thouſand Seaven hundred and Two</p>
+            <p>CHAP. XXIX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
